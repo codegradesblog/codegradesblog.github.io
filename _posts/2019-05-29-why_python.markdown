@@ -69,7 +69,7 @@ a sensible answer. Summing really only makes when used with numeric values or
 as a short-hand way to "add" two strings of characters together (for example,
 `"hel"` + `"lo"` makes `"hello"`).
 
-Contrast this behaviour with JavaScript. Look what happens when I try to
+Contrast this behaviour with JavaScript. Look what happens when I try the
 equivalent operation:
 
 ```
