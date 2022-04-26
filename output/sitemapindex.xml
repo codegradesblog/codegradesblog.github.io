@@ -6,31 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://blog.codegrades.com/authors/codegrades.xml</loc>
-  <lastmod>2022-04-26T12:40:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.codegrades.com/authors/nicholas-htollervey.xml</loc>
-  <lastmod>2022-04-26T14:15:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://blog.codegrades.com/feed.xml</loc>
-  <lastmod>2022-04-26T14:15:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.codegrades.com/galleries/feed.xml</loc>
-  <lastmod>2022-04-26T12:32:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.codegrades.com/galleries/rss.xml</loc>
-  <lastmod>2022-04-26T12:25:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://blog.codegrades.com/rss.xml</loc>
-  <lastmod>2022-04-26T12:29:00Z</lastmod>
+  <lastmod>2022-04-26T15:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://blog.codegrades.com/sitemap.xml</loc>
-  <lastmod>2022-04-26T14:26:00Z</lastmod>
+  <lastmod>2022-04-26T15:20:00Z</lastmod>
  </sitemap>
 </sitemapindex>
