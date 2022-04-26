@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet href="https://blog.codegrades.com/assets/xml/atom.xsl" type="text/xsl media="all"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom">
+  <title>The CodeGrades Blog (Posts by Nicholas H.Tollervey)</title>
+  <id>https://blog.codegrades.com/authors/nicholas-htollervey.xml</id>
+  <updated>2022-04-26T14:15:19Z</updated>
+  <author>
+    <name>CodeGrades</name>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://blog.codegrades.com/authors/nicholas-htollervey.xml"/>
+  <link rel="alternate" type="text/html" href="https://blog.codegrades.com/authors/nicholas-htollervey/"/>
+  <generator uri="https://getnikola.com/">Nikola</generator>
+  <entry>
+    <title>Hello, World (again)</title>
+    <id>https://blog.codegrades.com/posts/hello-world-again%20/</id>
+    <updated>2022-03-26T15:30:00+01:00</updated>
+    <published>2022-03-26T15:30:00+01:00</published>
+    <author>
+      <name>Nicholas H.Tollervey</name>
+    </author>
+    <link rel="alternate" type="text/html" href="https://blog.codegrades.com/posts/hello-world-again%20/"/>
+    <summary type="html">&lt;div&gt;&lt;p&gt;&lt;img class="outdent" src="https://blog.codegrades.com/images/learn.jpg" alt="Everyone can code!"&gt;&lt;/p&gt;
+&lt;p&gt;The COVID outbreak has disrupted our world in lots of different ways.&lt;/p&gt;
+&lt;p&gt;For CodeGrades, it meant our face-to-face work with young coders, in London,
+had to stop.&lt;/p&gt;
+&lt;p&gt;We had been meeting since the Autumn of 2019 to prepare both young coders and
+their ever enthusiastic parents for our initial syllabus of Python grades.
+Improvised venues included
+&lt;a href="https://www.barbican.org.uk/"&gt;the Barbican&lt;/a&gt;, co-working spaces, the
+&lt;a href="https://www.tate.org.uk/visit/tate-modern"&gt;Tate Modern&lt;/a&gt;
+and the
+&lt;a href="https://www.thersa.org/"&gt;Royal Society of Arts&lt;/a&gt;. It was engaging, friendly and
+the candidates (no matter their age or level of experience) were a credit to
+themselves and building all sorts: from games, to websites to mobile apps. It's
+such a shame we couldn't complete the courses of study and have folks actually
+present their projects for grading.&lt;/p&gt;
+&lt;p&gt;This was a huge loss.&lt;/p&gt;
+&lt;p&gt;We learned a huge amount from this remarkable group of young people and their
+parents. Because of their feedback, the syllabus was subsequently refined,
+various tools were updated (the &lt;a href="https://codewith.mu/"&gt;Mu editor&lt;/a&gt;, and
+&lt;a href="https://pypercard.readthedocs.io/en/latest/"&gt;PyperCard&lt;/a&gt;) and we all naively
+looked forward to the soon-to-be-imminent easing of lock-down here in the UK.&lt;/p&gt;
+&lt;p&gt;Yet that didn't happen, and two year's later, the world has changed.&lt;/p&gt;
+&lt;p&gt;Instead CodeGrades has taken a different direction, and reviving this blog is
+evidence of this journey.&lt;/p&gt;
+&lt;p&gt;To cut a long story short,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lock-down afforded us the opportunity to connect with many folks in the wider
+  Python community, all over the world, who were interested in our crazy
+  experiment in coding education.&lt;/li&gt;
+&lt;li&gt;They called our bluff about making the work we'd been doing accessible. So we
+  put our code where our mouth is, and have a completely
+  &lt;a href="https://codegrades.com/"&gt;web based version of CodeGrades&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The assessment process has changed, but we believe it is actually better, as
+  a result.&lt;/li&gt;
+&lt;li&gt;The new website is completely redesigned, rewritten and feature complete. It
+  is currently undergoing technical alpha testing with trusted invited friends
+  of the project and we expect an open beta to be released later this summer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It was always our intention for CodeGrades to be accessible to anyone, anywhere
+there's an internet connection, and lock-down forced our hand.&lt;/p&gt;
+&lt;p&gt;Finally, this is all just the tip of a very large iceberg. Now that various
+pieces in a very complicated jigsaw puzzle are starting to come together,
+expect much more regular updates via this blog, and our
+&lt;a href="https://twitter.com/CodeGrades"&gt;Twitter account&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;See you soon. :-)&lt;/p&gt;&lt;/div&gt;</summary>
+  </entry>
+  <entry>
+    <title>Why Python?</title>
+    <id>https://blog.codegrades.com/posts/why-python/</id>
+    <updated>2019-06-03T11:15:00+01:00</updated>
+    <published>2019-06-03T11:15:00+01:00</published>
+    <author>
+      <name>Nicholas H.Tollervey</name>
+    </author>
+    <link rel="alternate" type="text/html" href="https://blog.codegrades.com/posts/why-python/"/>
+    <summary type="html">&lt;div&gt;&lt;p&gt;CodeGrades (initially) targets Python as a language for learning programming.
+This post explains why.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Creation of Code" src="https://blog.codegrades.com/images/creation_small.png"&gt;&lt;/p&gt;
+&lt;p&gt;The most obvious answer is that the folks involved in CodeGrades are
+professional Python programmers. But there are more fundamental reasons why
+Python makes a great choice when first learning to write software, especially
+when compared to other programming languages.&lt;/p&gt;
+&lt;p&gt;A primary strength of Python is its readability. Python uses indentation
+to structure code, so &lt;em&gt;how it looks and is presented&lt;/em&gt; tells us something about
+how the code works. Python also has remarkably few confusing special syntactic
+symbols to organise code.&lt;/p&gt;
+&lt;p&gt;Why is this important?&lt;/p&gt;
+&lt;p&gt;If, like me, you have taught learners with English as an additional language or
+who have a special educational need such as dyslexia, then you will know
+that Python's intuitive indentation is something people, the world over, all
+understand (no matter their human language background or potential barriers to
+educational engagement). A lack of confusing symbols, such as &lt;code&gt;{&lt;/code&gt;, &lt;code&gt;}&lt;/code&gt; and &lt;code&gt;;&lt;/code&gt;
+scattered around the code makes Python very easy to read compared to other
+languages. Furthermore, the indentation rules guide learners to present and
+write their code (no need to remember what all those confusing symbols mean).&lt;/p&gt;
+&lt;p&gt;Since you don't have to concentrate that much on how to read and write Python
+code, you can put more effort into actually understanding it. Anything that
+lowers the effort required to engage with programming in an educational context
+is a good thing. In terms of code accessibility for learners, Python is an
+excellent choice.&lt;/p&gt;
+&lt;p&gt;Another strength is that Python is a mostly obvious and simple language.&lt;/p&gt;
+&lt;p&gt;The names of things built into the language make sense (for example, "list"
+rather than "array" and "dictionary" rather than "hashtable"), the things
+built into the language are useful (the so-called batteries included approach)
+and often such features are implemented in a simple and intuitive way. This
+puts Python in a rather unique sweet spot: the language has enough features
+that it's useful, Python usually names these things in an obvious way (making
+them easy to discover) and using such features is often easy. Of course,
+there are aspects of Python for which such generalisations are false. However,
+when dealing with beginner developers, Python's &lt;em&gt;combined strengths&lt;/em&gt; of
+usefulness, clarity and simplicity are an extraordinary advantage compared to
+pretty much all other text based programming languages.&lt;/p&gt;
+&lt;p&gt;Python also endeavours to do the "expected" thing. For instance, if I try to
+add a dictionary and a list Python will complain:&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&amp;gt;&amp;gt;&amp;gt; {} + []
+Traceback (most recent call last):
+  File "&amp;lt;stdin&amp;gt;", line 1, in &amp;lt;module&amp;gt;
+TypeError: unsupported operand type(s) for +: 'dict' and 'list'
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Python is saying you can't use the &lt;code&gt;+&lt;/code&gt; operand to sum together a dictionary and
+a list. This, I would argue, is the "expected" thing to do. When I ask myself,
+"what should be the answer to adding a dictionary and a list?" I can't think of
+a sensible answer. Summing really only makes when used with numeric values or
+as a short-hand way to "add" two strings of characters together (for example,
+&lt;code&gt;"hel"&lt;/code&gt; + &lt;code&gt;"lo"&lt;/code&gt; makes &lt;code&gt;"hello"&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;Contrast this behaviour with JavaScript. Look what happens when I try the
+equivalent operation:&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&amp;gt; {} + []
+0
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Of course the answer is obviously zero..!?!?!? I mean, what were &lt;strong&gt;you&lt;/strong&gt;
+expecting it to be?&lt;/p&gt;
+&lt;p&gt;Here's some more fun. What happens when we switch around the summed terms?&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&amp;gt; [] + {}
+"[object Object]"
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If you were expecting the same result and got a surprise when things were
+different, then you're demonstrating the importance of consistency (especially
+in an educational context -- this is an important aspect of building
+up internal mental models of how programming languages work).&lt;/p&gt;
+&lt;p&gt;Learning, by its very nature, involves making mistakes and &lt;strong&gt;realizing that
+mistakes have been made&lt;/strong&gt;. Only then can behaviour be adjusted, mental models
+updated and progress made. If you're learning to code with a programming
+language that would rather make what appears to be a best guess at what you
+mean (like JavaScript), rather than complain about an obvious error, then all
+sorts of problems will pass unnoticed. Instead, you'll either continue with
+your mistaken or incomplete view of the programming world or you'll have to
+learn stuff like the rather tortuous rules used by JavaScript that cause
+&lt;code&gt;{} + []&lt;/code&gt; to equal &lt;code&gt;0&lt;/code&gt; and &lt;code&gt;[] + {}&lt;/code&gt; to equal &lt;code&gt;[object Object]&lt;/code&gt; (whatever that
+may mean).&lt;/p&gt;
+&lt;p&gt;Python, on the other hand, will just (helpfully) complain about your mistakes.
+Please don't misconstrue my examples as an attack on JavaScript. The point is
+simple: different programming languages have different strengths and weaknesses
+(and often what appears as a strength in one context, is a weakness in
+another), and Python's preference to complain is (because it helps avoid
+misunderstandings) a good thing.&lt;/p&gt;
+&lt;p&gt;Such a focus also encourages both learners and professionals alike to create
+understandable and coherent code. Such code is easier to maintain and less
+likely to contain bugs (because many bugs are caused by &lt;em&gt;misunderstanding what
+the code is actually doing&lt;/em&gt; compared to what you &lt;em&gt;mistakenly think it ought to
+be doing&lt;/em&gt;). Python is powerful because it allows folks to simply state their
+ideas in coherent code. This, once again, is an extraordinary advantage in an
+educational context since learners can focus on the problem in hand rather than
+having to create, configure and build "boilerplate" code needed before anything
+useful can be accomplished (a rather demoralizing activity).&lt;/p&gt;
+&lt;p&gt;Python is also a real programming language. By this I mean it is not just some
+sort of educational tool such as Scratch and other block based projects. The
+skills and knowledge gained by learning Python
+are economically valuable and useful in many vocations. Put simply, learning
+Python has professional value in many disciplines. The reach of Python is also
+an advantage. You'll find Python running on all sorts of different platforms
+(from desktop operating systems to server farms "in the cloud") and devices
+(from your laptop to an embedded device no bigger than your finger nail) to
+fulfil all sorts of tasks (from helping to render state-of-the-art computer
+generated special effects in films, or processing data captured from space
+telescopes and scripting computer games to, running some of the busiest
+websites in the world).&lt;/p&gt;
+&lt;p&gt;It turns out that learning Python gives you a useful and widely applicable
+skill!&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://blog.codegrades.com/images/microbit.gif"&gt;&lt;/p&gt;
+&lt;p&gt;Finally, there is the Python community. It has been my happy experience that
+many folk in the Python community are welcoming, friendly and work in a spirit
+of open, supportive and respectful collaboration. My hope is that CodeGrades
+can go some way to help continue such a spirit in new
+programmers by engaging with those who share a constructive passion for
+programming education in the wider Python community. While not a unique
+feature, the focus on and openness to beginner programmers and new community
+members is certainly a great strength of the wider Python community.&lt;/p&gt;
+&lt;p&gt;However, like all communities, the Python community also contains thoughtless,
+ignorant and (alas) nasty folk. Sometimes things go wrong, causing pain for
+some or all involved. CodeGrades acknowledges such experiences and views them
+as sadly inevitable. We believe it important to foster in CodeGrades
+participants a constructive, respectful and honest outlook and promote
+expectations of open, safe and friendly collaboration. Such expectations for
+the behaviour of code mentors and candidates alike, while preparing for and
+taking part in the grading process, reflect our belief that CodeGrades isn't
+just about learning technical skills. CodeGrades is a way to cultivate and
+foster the social skills and maturity needed to deal with the inevitable
+problems that may arise. CodeGrades isn't just about
+learning to code, it's also about learning to flourish in a technical
+community.&lt;/p&gt;
+&lt;p&gt;So, why Python? In conclusion: we know it already, it's a powerful language,
+it's a valuable skill and it has an amazing community which is fertile for
+promoting the flourishing of beginner programmers.&lt;/p&gt;
+&lt;p&gt;Finally, all of the Python positives described above demonstrate the
+thoughtful efforts and formidable technical skill of a huge number of folk
+within the Python community. CodeGrdaes would like to publicly thank all
+involved. It is our sincere hope that if our CodeGrades experiment is a
+success, we can give back to this wonderful community.&lt;/p&gt;&lt;/div&gt;</summary>
+  </entry>
+</feed>

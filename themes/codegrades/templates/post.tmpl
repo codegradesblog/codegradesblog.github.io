@@ -1,0 +1,11 @@
+{% extends 'base.tmpl' %}
+
+{% block content %}
+  <h2><a href="{{ post.permalink() }}">{{ post.title()|e }}</a></h2>
+  <p>{{ post.author() }} ~
+    <a href="{{ post.permalink() }}" rel="bookmark">
+      <time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" itemprop="datePublished" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time>
+    </a>
+  </p>
+  {{ post.text(teaser_only=False) }}
+{% endblock %}

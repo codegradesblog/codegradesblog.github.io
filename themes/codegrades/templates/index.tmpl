@@ -1,0 +1,17 @@
+{% extends 'base.tmpl' %}
+
+{% block content %}
+{% if page_links %}
+    {{ pagination.page_navigation(current_page, page_links, prevlink, nextlink, prev_next_links_reversed) }}
+{% endif %}
+{% for post in posts %}
+  <h2><a href="{{ post.permalink() }}">{{ post.title()|e }}</a></h2>
+  <p>{{ post.author() }} ~
+    <a href="{{ post.permalink() }}" rel="bookmark">
+      <time class="published dt-published" datetime="{{ post.formatted_date('webiso') }}" itemprop="datePublished" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time>
+    </a>
+  </p>
+  {{ post.text(teaser_only=False) }}
+  <hr/>
+{% endfor %}
+{% endblock %}

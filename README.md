@@ -1,7 +1,3 @@
 # CodeGrades Blog.
 
-Uses Jekyll.
-
-```
-bundle exec jekyll serve
-```
+Uses [nikola](https://getnikola.com/) under the hood.
