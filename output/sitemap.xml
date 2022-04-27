@@ -7,46 +7,38 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://blog.codegrades.com/</loc>
-  <lastmod>2022-04-26T15:19:00Z</lastmod>
+  <lastmod>2022-04-26T15:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.codegrades.com/2019/</loc>
-  <lastmod>2022-04-26T15:19:00Z</lastmod>
+  <lastmod>2022-04-26T15:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.codegrades.com/2022/</loc>
-  <lastmod>2022-04-26T15:19:00Z</lastmod>
+  <lastmod>2022-04-26T15:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.codegrades.com/archive.html</loc>
-  <lastmod>2022-04-26T15:20:00Z</lastmod>
+  <lastmod>2022-04-26T15:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.codegrades.com/categories/</loc>
-  <lastmod>2022-04-26T15:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://blog.codegrades.com/galleries/</loc>
-  <lastmod>2022-04-26T15:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://blog.codegrades.com/listings/</loc>
-  <lastmod>2022-04-26T15:19:00Z</lastmod>
+  <lastmod>2022-04-26T15:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.codegrades.com/posts/hello-world-again/</loc>
-  <lastmod>2022-04-26T15:19:00Z</lastmod>
+  <lastmod>2022-04-26T15:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.codegrades.com/posts/hello/</loc>
-  <lastmod>2022-04-26T15:19:00Z</lastmod>
+  <lastmod>2022-04-26T15:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.codegrades.com/posts/podcast_init/</loc>
-  <lastmod>2022-04-26T15:19:00Z</lastmod>
+  <lastmod>2022-04-26T15:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.codegrades.com/posts/why-python/</loc>
-  <lastmod>2022-04-26T15:19:00Z</lastmod>
+  <lastmod>2022-04-26T15:36:00Z</lastmod>
  </url>
 </urlset>
